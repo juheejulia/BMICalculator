@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="bim_main_picture">bim_main_picture</string>
+    <string name="title_text">BIM Calculator</string>
+    <string name="your_height">Your height (cm)</string>
+    <string name="your_weight">Your weight (kg)</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_text">Here, you can see your result.</string>
+    calculate
+
+
+</resources>
