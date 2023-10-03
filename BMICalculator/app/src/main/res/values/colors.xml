@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="dark_beige">#AF8D6C</color>
+    <color name="transparent">#000000</color>
     <color name="grey">#B4B4B3</color>
+    <color name="dark_grey">#575756</color>
     <color name="navy">#26577C</color>
     <color name="light_green_blue">#D9FFEF</color>
     <color name="orange">#E55604</color>

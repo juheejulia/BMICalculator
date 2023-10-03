@@ -6,7 +6,15 @@
     <string name="your_weight">Your weight (kg)</string>
     <string name="calculate">Calculate</string>
     <string name="result_text">Here, you can see your result.</string>
-    calculate
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severelyunderweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese class i</string>
+    <string name="obese_class_ii">Obese class ii</string>
+    <string name="obese_class_iii">Obese class iii</string>
+
 
 
 </resources>
